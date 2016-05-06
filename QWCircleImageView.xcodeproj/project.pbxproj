@@ -14,6 +14,7 @@
 		E8ED5F731CDC156A00FF9C3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8ED5F711CDC156A00FF9C3D /* LaunchScreen.storyboard */; };
 		E8ED5F7E1CDC156A00FF9C3D /* QWCircleImageViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ED5F7D1CDC156A00FF9C3D /* QWCircleImageViewTests.swift */; };
 		E8ED5F891CDC156A00FF9C3D /* QWCircleImageViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ED5F881CDC156A00FF9C3D /* QWCircleImageViewUITests.swift */; };
+		E8ED5F971CDC174200FF9C3D /* QWCircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ED5F961CDC174200FF9C3D /* QWCircleImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E8ED5F841CDC156A00FF9C3D /* QWCircleImageViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QWCircleImageViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8ED5F881CDC156A00FF9C3D /* QWCircleImageViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QWCircleImageViewUITests.swift; sourceTree = "<group>"; };
 		E8ED5F8A1CDC156A00FF9C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8ED5F961CDC174200FF9C3D /* QWCircleImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QWCircleImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E8ED5F6F1CDC156A00FF9C3D /* Assets.xcassets */,
 				E8ED5F711CDC156A00FF9C3D /* LaunchScreen.storyboard */,
 				E8ED5F741CDC156A00FF9C3D /* Info.plist */,
+				E8ED5F961CDC174200FF9C3D /* QWCircleImageView.swift */,
 			);
 			path = QWCircleImageView;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8ED5F6B1CDC156A00FF9C3D /* ViewController.swift in Sources */,
+				E8ED5F971CDC174200FF9C3D /* QWCircleImageView.swift in Sources */,
 				E8ED5F691CDC156A00FF9C3D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
